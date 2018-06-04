@@ -1,0 +1,20 @@
+.name {
+    background: #4aaaa5;
+    width: 300px;
+    height: 90px;
+    padding-top: 40px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    color: #fff !important;
+    font-weight: 700;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.headshot{
+        /* float: left; */
+        width: 200px;
+        height: auto;
+        margin-top: 10px;
+        margin-right: 25px;
+      }
